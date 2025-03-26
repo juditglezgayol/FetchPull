@@ -5,3 +5,4 @@ Cuarta línea antes de push en otra rama
 Quinta línea para llevar a main en gitHub
 Sexta línea en gitHub en newrama creada en gitHub
 7ª línea en local (PC)
+8ª línea añadida en gitHub para crear conflicto con el repo local
